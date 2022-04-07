@@ -1,0 +1,2 @@
+google-cloud-service-usage==1.2.1
+google-cloud-documentai==1.0.0

@@ -1,0 +1,67 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "doc_name",
+      "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "doc_type",
+        "type": "STRING"
+      },
+    {
+      "mode": "NULLABLE",
+      "name": "hitl_results_path",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "timestamp",
+      "type": "TIMESTAMP"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "extract_confidence",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "extract_mention_text",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "extract_type_",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "gt_confidence",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "gt_mention_text",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "gt_provenance_name",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "gt_provenance_value",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "gt_type_",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "extract_accuracy_result",
+      "type": "BOOLEAN"
+    }
+  ]

@@ -1,0 +1,18 @@
+.env
+.vscode/
+documentai-toolkit/
+# Local .terraform directories
+**/.terraform/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+# Terraform lock files
+**/.terraform.lock.hcl
+# Crash log files
+crash.log
+# Credentials
+credentials.json
+# tf lock file
+.terraform.lock.hcl
+processor_state.json
+vars.sh
